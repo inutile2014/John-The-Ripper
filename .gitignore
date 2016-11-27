@@ -1,0 +1,6 @@
+-- find the typ of hash
+
+#see the Python lib.
+
+--Encript MD5 Hash
+john -format=Raw-MD4(format) --show hashpassw.txt(The Hash value that have to be entcrypted)
